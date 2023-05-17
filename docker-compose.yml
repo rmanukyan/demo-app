@@ -1,0 +1,13 @@
+version: "3.8"
+
+services:
+  myapp:
+    image: demo-app:latest
+    restart: unless-stopped
+    environment:
+      - SPRING_PROFILES_ACTIVE=test
+    ports:
+      - "8080:8080"
+
+
+
