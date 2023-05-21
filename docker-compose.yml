@@ -5,7 +5,7 @@ services:
     image: demo-app:latest
     restart: unless-stopped
     environment:
-      - SPRING_PROFILES_ACTIVE=test
+      - SPRING_PROFILES_ACTIVE=prod
     ports:
       - "8080:8080"
 
