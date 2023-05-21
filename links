@@ -1,2 +1,3 @@
 https://github.com/spring-projects/spring-integration/blob/main/spring-integration-sftp/src/main/java/org/springframework/integration/sftp/session/DefaultSftpSessionFactory.java
 https://docs.spring.io/spring-integration/reference/html/sftp.html#sftp
+https://hub.docker.com/r/atmoz/sftp
