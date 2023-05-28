@@ -13,3 +13,6 @@ import org.springframework.context.annotation.Profile;
 //	}
 //
 //}
+
+
+// TODO check this test - https://dzone.com/articles/spring-integration-sftp-download-using-key-based-a
